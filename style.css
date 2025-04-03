@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-image: url("../images/kazetachinu050_1600776049.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+header{
+    height: 85px;
+    background-color: rgba(255, 32, 207, 0.651);
+    padding-top: 20px;
+}
+h1{
+    margin: 0;
+    text-align: center;
+
+}
+main{
+min-height: 750px;
+}
+h3{
+    text-align: center;
+}
+ul{
+    padding-left: 900px;
+}
+
+footer{
+    height: 150px;
+    background-color: rgba(137, 43, 226, 0.548);
+    font-size: 24px;
+    text-align: center;
+    padding-top: 50px;
+}
